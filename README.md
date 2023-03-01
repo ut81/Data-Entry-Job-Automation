@@ -1,5 +1,11 @@
 # Data-Entry-Job-Automation
 
+# requirements
+    1. you need to install BeautifulSoup
+    2. install Chrome
+    3. download chromedriver
+    4. install & setup selenium
+
 
 # steps to run :
   1. You can see your browser headers by going to this website:  http://myhttpheader.com/
