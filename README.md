@@ -17,6 +17,8 @@
   
   ![image](https://user-images.githubusercontent.com/126648429/222069760-8c191b60-5e98-4d7b-8128-efa5de4f523d.png)
   
+  4. Paste it into google_form_link in python script.
+  
   
 
 
