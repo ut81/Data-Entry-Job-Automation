@@ -49,7 +49,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 import time
 
-google_form_link="https://docs.google.com/forms/d/e/1FAIpQLSfgUN0nw86iCf27xtV-oGixn5WK1BJBk0tyiqzAewCLQCKaZg/viewform?usp=sf_link"
+google_form_link="your google form link"
 
 chrome_driver_path = Service("C:\Development\chromedriver.exe")
 
