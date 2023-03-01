@@ -51,7 +51,7 @@ import time
 
 google_form_link="your google form link"
 
-chrome_driver_path = Service("")
+chrome_driver_path = Service("your chromedriver path")
 
 driver=webdriver.Chrome(service=chrome_driver_path)
 
