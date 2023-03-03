@@ -1,5 +1,7 @@
 # Data-Entry-Job-Automation
 
+In this project, i've automated fill the data in google form that is scrapped from a website.
+
 # requirements
     1. you need to install BeautifulSoup
     2. install Chrome
