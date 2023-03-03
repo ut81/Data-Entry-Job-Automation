@@ -40,6 +40,7 @@ In this project, i've automated fill the data in google form that is scrapped fr
   
   5. Paste it into google_form_link in python script.
   
+  6. Finally, run Data_Entry_Job_Automation.py
   
 
   
